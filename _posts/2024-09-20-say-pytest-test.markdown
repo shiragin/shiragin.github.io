@@ -8,7 +8,7 @@ tags: [TIL, testing, CI, pytest, coverage, testsareimportantman]
 
 ![Test coverage TIL photo of a scientist in a research lab](/assets/testing.jpg)
 
-Tests are important! Not just as a safety net for any code-breaking changes you or a pesky colleague might push (on a Friday, of course). They also help you better understand the design of your features, their use, and their limitations.
+Tests are important! Not just as a safety net for any code-breaking changes you might push (on a Friday, of course). They also help you better understand the design of your features, their use, and their limitations.
 
 When I started my development career, I spent a week writing tests for my first feature, until I'd become a self-certified Cypress ninja. What if there's a network error? What if the file is empty? What if the user headbutts the keyboard while the app is loading? Better write another test! Just to be sure, you know?
 
