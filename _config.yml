@@ -22,8 +22,9 @@ title: TIL - Things I Learned Today
 email: shiragin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cool stuff I learned today. Some of these insights might seem basic, but our knowledge is often based on the people we worked with and the projects we worked on. So, I hope this helps someone out there as much as it helped me.
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+domain: shiragin.github.io
+baseurl: ''
+url: 'https://shiragin.github.io' # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: shiragin
 linkedin_username: shira-ginat-612305247
