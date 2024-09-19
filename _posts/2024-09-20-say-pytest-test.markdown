@@ -2,10 +2,11 @@
 layout: post
 title: 'Say "Pytest Test" One More Time'
 date: 2024-09-20 00:21:41 +0200
-categories: til testing pytest coverage
+categories: til testing
+tags: [TIL, testing, CI, pytest, coverage, testsareimportantman]
 ---
 
-![My helpful screenshot](/assets/testing.jpg)
+![Test coverage TIL photo of a scientist in a research lab](/assets/testing.jpg)
 
 Tests are important! Not just as a safety net for any code-breaking changes you or a pesky colleague might push (on a Friday, of course). They also help you better understand the design of your features, their use, and their limitations.
 
